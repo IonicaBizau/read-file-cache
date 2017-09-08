@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Reads the file asyncronously.
 
 #### Params
+
 - **String** `path`: The file path.
 - **Boolean** `noCache`: If `true`, the file will be read from the disk.
 - **Function** `cb`: The callback function.
@@ -14,6 +15,7 @@ Reads the file asyncronously.
 The syncronous version of the function.
 
 #### Params
+
 - **String** `path`: The file path.
 - **Boolean** `noCache`: If `true`, the file will be read from the disk.
 
